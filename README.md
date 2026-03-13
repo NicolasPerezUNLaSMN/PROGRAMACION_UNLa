@@ -4,9 +4,9 @@
 
 # Programación - UNLa
 
-![GitHub repo size](https://img.shields.io/github/repo-size/NicolasPerezUNLaSMN/PROGRAMACION_UNLa)
-![GitHub last commit](https://img.shields.io/github/last-commit/NicolasPerezUNLaSMN/PROGRAMACION_UNLa)
-![GitHub license](https://img.shields.io/github/license/NicolasPerezUNLaSMN/PROGRAMACION_UNLa)
+![GitHub repo size](https://img.shields.io/github/repo-size/UNLa-materias/PROGRAMACION_UNLa)
+![GitHub last commit](https://img.shields.io/github/last-commit/UNLa-materias/PROGRAMACION_UNLa)
+![GitHub license](https://img.shields.io/github/license/UNLa-materias/PROGRAMACION_UNLa)
 
 ## Universidad Nacional de Lanús  
 ### Departamento de Desarrollo Productivo y Tecnológico  
